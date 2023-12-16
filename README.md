@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @hadisgedaali
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning Data science
+
 
 
 <!---
